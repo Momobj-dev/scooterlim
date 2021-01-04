@@ -1,0 +1,46 @@
+  body{
+  background-image: url(https://s.yimg.com/ny/api/res/1.2/ijY5gia3Ck.vYOQ6pdObjQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTIwMDA7aD0xMjUy/https://s.yimg.com/os/creatr-images/2020-01/ad8daa30-2d44-11ea-a67d-a36b69f84d85);
+
+  color: black;
+
+  padding: 100px;
+  margin: 50px;
+}
+.logo{
+  width: 200px;
+}
+
+.logo-text{
+  text-align: center;
+  color:#00FF00 ;
+  ;
+}
+.buttoncontainer {
+text-align: center;
+background-color: #00FF00;
+
+}
+
+.barragino{
+  width: 280px;
+  height: 20px;
+  background-color: #F0E68C;
+
+}
+
+.barramike{
+  width: 500px;
+  height: 20px;
+  background-color: #32CD32;
+}
+
+.barrafede{
+  width: 120px;
+  height: 20px;
+  background-color: #CD5C5C;
+}
+
+span{
+  font-family: "Lucida Console", "Courier New", monospace;
+
+}
